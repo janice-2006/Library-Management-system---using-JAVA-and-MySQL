@@ -48,3 +48,14 @@ Build & Run: Use Maven to build the project and run it on localhost:8081.
 
 Target Audience
 This project serves as a practical implementation of Database Management Systems (DBMS) and Web Technologies coursework, specifically tailored for academic library environments like SRMIST.
+
+The output will be displayed like this 
+
+<img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/c3e50d41-7aa1-41e4-8cfb-7c32abe23e97" />
+<img width="1600" height="790" alt="image" src="https://github.com/user-attachments/assets/825e99ec-109b-4d77-ad38-6d0340489301" />
+<img width="1406" height="848" alt="image" src="https://github.com/user-attachments/assets/1b616a63-af1a-4367-b725-37464bbb5894" />
+<img width="1600" height="793" alt="image" src="https://github.com/user-attachments/assets/b4e8b833-f958-4410-a987-1472d64e7785" />
+
+
+
+
