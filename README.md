@@ -38,7 +38,7 @@ Input Validation: Fixed the "Field 'email' doesn't have a default value" error b
 State Management: Built a synchronized loading system (loadStudents) that updates multiple UI components (the Borrow Dropdown and the Student Directory) from a single backend call.
 
 🚀 How to Run Locally
-Clone the Repository: git clone [Your-Repo-Link]
+Clone the Repository: git clone [https://github.com/janice-2006/Library-Management-system---using-JAVA-and-MySQL/]
 
 Setup Database: Execute the provided schema.sql in your MySQL terminal.
 
